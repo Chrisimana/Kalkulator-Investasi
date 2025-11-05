@@ -155,14 +155,6 @@ python main.py
 
 ### Architecture Overview
 
-```
-Super Investment Calculator
-├── Presentation Layer (PyQt5 GUI)
-├── Business Logic Layer (Investment Calculator)
-├── Data Access Layer (Database Manager)
-└── Model Layer (Data Classes)
-```
-
 ### Workflow Diagram
 
 ```mermaid
